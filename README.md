@@ -18,7 +18,7 @@ https://www.linkedin.com/in/ivo-silnieks/
 </p>
 <p align="center"><b>My best projects:</b></p>
 <p align="center">
-<a href="https://github.com/isilnieks/DatingSite">Dating Site with login/registration and matching with other people!</a>
+<a href="https://github.com/isilnieks/DatingSite">Dating Site with login/registration and matching with other people</a>
 </p>
 <p align="center">
 <a href="https://github.com/isilnieks/StockMarket">Stock Market with information from API</a>
